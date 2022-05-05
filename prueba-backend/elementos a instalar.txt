@@ -1,0 +1,4 @@
+
+npm i express mysql jsonwebtoken cors
+npm i nodemon --save
+(npm run serve)
