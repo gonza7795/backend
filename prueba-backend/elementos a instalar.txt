@@ -1,4 +1,7 @@
 
 npm i express mysql jsonwebtoken cors
 npm i nodemon --save
-(npm run serve)
+
+para correr el servidor 
+cd C:\Users\Gonzalo\Documents\Argentina-Programa\backend\prueba-backend
+npm run serve
